@@ -1,0 +1,11 @@
+comtypes==1.1.11
+opencv_python==4.5.5.64
+Pillow==9.4.0
+psutil==5.9.1
+PyAudio==0.2.12
+PyAutoGUI==0.9.53
+pycaw==20220416
+pywin32==304
+requests==2.27.1
+screeninfo==0.8.1
+WMI==1.5.1
