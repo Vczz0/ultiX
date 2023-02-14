@@ -1,6 +1,7 @@
 # ultiX
-ultix is a Remote Acces Tool, also know as a "RAT". Developed by RealDutch7
-
+ultix is a Remote Acces Tool, also know as a "RAT". Developed by RealDutch7.  
+I would like to hear your feedback, issues, on this program. You can send me DM, my discord is in my bio. Thankyou!  
+```It took a long time to develop this, so star would be appreciated!```
 > ultiX is tested on a Windows 10 machine, the server is hosted in 000Webhost. 
 
 # Info
@@ -10,8 +11,7 @@ ultix is a Remote Acces Tool, also know as a "RAT". Developed by RealDutch7
     - HTML
     - CSS
     - JS
-    
-
+   
 2. Webserver
     - 000Webhost
 
