@@ -24,7 +24,6 @@ import win32clipboard
 import threading
 import win32gui
 
-import winreg as reg
 from tkinter import messagebox
 import tkinter
 import tempfile
