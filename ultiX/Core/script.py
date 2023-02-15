@@ -1,7 +1,6 @@
 import getpass
 import requests
 import json
-from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume, ISimpleAudioVolume
 import urllib
 from urllib.request import Request, urlopen
 from requests import get
