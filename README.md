@@ -116,6 +116,7 @@ I would like to hear your feedback, issues, on this program. You can send me DM,
 
 - Window Text
 <img src="https://github.com/Vczz0/ultiX/blob/main/Images/winText.JPG" width="350" alt="accessibility text">
+
 - Clipboard
 <img src="https://github.com/Vczz0/ultiX/blob/main/Images/clip.JPG" width="350" alt="accessibility text">
 
